@@ -1,0 +1,40 @@
+/* .search_in_main {
+  position: absolute;
+  height: 48px;
+  left: 300px;
+  right: 300px;
+  top: calc(83% - 48px / 2 - 4px);
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  border-radius: 4px;
+  z-index: 9999999;
+} */
+.search_in_main_container{
+  position: absolute;
+  height: 48px;
+  left: 300px;
+  right: 300px;
+  top: calc(83% - 48px / 2 - 4px);
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  box-sizing: border-box;
+  border-radius: 4px;
+  z-index: 9999999;
+  
+}
+.search_in_main_container input{
+  border: none;
+  width: 80%;
+  padding-top: 2%;
+  padding-right: 2%;
+  padding-left: 6%;
+}
+
+.search_in_main_container svg{
+  position: relative;
+  left:15.33%;
+  right: 8.33%;
+  top: 8.33%;
+  bottom: 8.33%;
+}

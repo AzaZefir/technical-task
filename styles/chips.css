@@ -1,0 +1,341 @@
+.first_chips_beach {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 24px;
+  position: absolute;
+  width: 94px;
+  height: 32px;
+  left: 22%;
+  top: 70%;
+  background: #eb6012;
+  border-radius: 18px;
+  z-index: 9999999;
+}
+.chips_beach_text {
+  font-family: "Roboto Medium";
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #f5f5f5;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.second_chips_beach {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 24px;
+  position: absolute;
+  width: 87px;
+  height: 24px;
+  left: 46px;
+  top: 36px;
+  z-index: 9999999;
+  background: #f4f4f4;
+  border-radius: 18px;
+}
+.second_chips_beach_text {
+  font-family: "Roboto Medium";
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: black;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.third_chips_beach {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 24px;
+  position: absolute;
+  width: 87px;
+  height: 24px;
+  left: 216px;
+  top: 36px;
+  background: #fb9155;
+  border-radius: 18px;
+  z-index: 9999999;
+}
+.fourth_chips_beach {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 24px;
+  position: absolute;
+  width: 94px;
+  height: 28px;
+  left: 556px;
+  top: 36px;
+  z-index: 9999999;
+  background: #cb540f;
+  border-radius: 18px;
+}
+.first_chips_breezor {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 24px;
+  position: absolute;
+  width: 128px;
+  height: 32px;
+  left: 30%;
+  top: 70%;
+  background: #f0f0f0;
+  border-radius: 18px;
+  z-index: 9999999;
+}
+.chips_breezor_text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #434343;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.second_chips_breezor{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4px 24px;
+position: absolute;
+width: 126px;
+height: 24px;
+left: 216px;
+top: 92px;
+background: #FB9155;
+border-radius: 18px;
+z-index: 9999999;
+}
+.second_chips_breezor_text{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 137%;
+text-align: center;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 8px 0px;
+}
+.third_chips_breezor{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4px 24px;
+
+position: absolute;
+width: 138px;
+height: 28px;
+left: 386px;
+top: 92px;
+background: #EB6012;
+border-radius: 18px;
+z-index: 9999999;
+}
+.fourth_chips_breezor{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4px 24px;
+position: absolute;
+width: 138px;
+height: 28px;
+left: 556px;
+top: 92px;
+background: #CB540F;
+border-radius: 18px;
+z-index: 9999999;
+}
+.first_chips_expirience {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 24px;
+  position: absolute;
+  width: 124px;
+  height: 32px;
+  left: 40%;
+  top: 70%;
+  background: #f0f0f0;
+  border-radius: 18px;
+  z-index: 9999999;
+}
+.second_chips_expirience{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4px 24px;
+position: absolute;
+width: 122px;
+height: 24px;
+left: 216px;
+top: 195px;
+background: #FB9155;
+border-radius: 18px;
+}
+.second_chips_expirience_text{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 137%;
+text-align: center;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 8px 0px;
+}
+.chips_expirience_text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #434343;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0px;
+}
+.third_chips_expirience{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 24px;
+  position: absolute;
+  width: 122px;
+  height: 24px;
+  left: 386px;
+  top: 195px;
+  background: #EB6012;
+  border-radius: 18px;
+}
+.fourth_chips_expirience{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4px 24px;
+position: absolute;
+width: 122px;
+height: 24px;
+left: 556px;
+top: 195px;
+background: #CB540F;
+border-radius: 18px;
+}
+.first_chips_routs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4px 24px;
+  position: absolute;
+  width: 112px;
+  height: 32px;
+  left: 50%;
+  top: 70%;
+  background: #f0f0f0;
+  border-radius: 18px;
+  z-index: 9999999;
+}
+.second_chips_routs{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4px 24px;
+position: absolute;
+width: 122px;
+height: 24px;
+left: 216px;
+top: 195px;
+background: #FB9155;
+border-radius: 18px;
+}
+.second_chips_routs_text{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 137%;
+text-align: center;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 8px 0px;
+}
+.third_chips_routs{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4px 24px;
+position: absolute;
+width: 122px;
+height: 24px;
+left: 386px;
+top: 195px;
+background: #EB6012;
+border-radius: 18px;
+}
+.fourth_chips_routs{
+  display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 4px 24px;
+position: absolute;
+width: 122px;
+height: 24px;
+left: 556px;
+top: 195px;
+background: #CB540F;
+border-radius: 18px;
+
+}
+.chips_routs_text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.2px;
+  color: #434343;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 8px 0px;
+}

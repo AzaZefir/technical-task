@@ -1,0 +1,15 @@
+.main_block {
+  position: absolute;
+  width: 1280px;
+  height: 656px;
+background: #1F1F1F;
+mix-blend-mode: multiply;
+opacity: 0.6;
+}
+
+.bg_image {
+  position: absolute;
+  width: 1280px;
+  height: 656px;
+  background: url("./../asssets/img/Cover Image.png");
+}
